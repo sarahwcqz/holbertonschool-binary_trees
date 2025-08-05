@@ -35,3 +35,4 @@ int main(void)
 	printf("Perfect: %d\n", perfect);
 	return (0);
 }
+
