@@ -15,3 +15,4 @@ size_t binary_tree_leaves(const binary_tree_t *tree)
 
 	return (binary_tree_leaves(tree->left) + binary_tree_leaves(tree->right));
 }
+/** peut etre qui l'output souhaite our si le node est une leave c'est 0, a verif */
