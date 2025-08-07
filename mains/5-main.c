@@ -27,3 +27,4 @@ int main(void)
 	printf("Is %d a root: %d\n", root->right->right->n, ret);
 	return (0);
 }
+
